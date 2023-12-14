@@ -1,0 +1,8 @@
+C:\Users\James\Desktop\repos\FIzzBuzz2\bin\Debug\FIzzBuzz2.exe.config
+C:\Users\James\Desktop\repos\FIzzBuzz2\bin\Debug\FIzzBuzz2.exe
+C:\Users\James\Desktop\repos\FIzzBuzz2\bin\Debug\FIzzBuzz2.pdb
+C:\Users\James\Desktop\repos\FIzzBuzz2\obj\Debug\FIzzBuzz2.csproj.AssemblyReference.cache
+C:\Users\James\Desktop\repos\FIzzBuzz2\obj\Debug\FIzzBuzz2.csproj.SuggestedBindingRedirects.cache
+C:\Users\James\Desktop\repos\FIzzBuzz2\obj\Debug\FIzzBuzz2.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\repos\FIzzBuzz2\obj\Debug\FIzzBuzz2.exe
+C:\Users\James\Desktop\repos\FIzzBuzz2\obj\Debug\FIzzBuzz2.pdb
